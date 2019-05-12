@@ -18,6 +18,9 @@ const Menu = () => (
       <li>
         <Link to="/services">Services</Link>
       </li>
+      <li>
+        <Link to="/blog">Blog</Link>
+      </li>
     </ul>
   </div>
 )
